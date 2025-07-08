@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://harnesslogic.com/sitemap.xml
